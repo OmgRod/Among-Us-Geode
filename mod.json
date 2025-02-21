@@ -1,0 +1,19 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "omgrod.among_us",
+	"name": "Among Us",
+	"version": "v1.0.0",
+	"developer": "OmgRod",
+	"description": "",
+	"resources": {
+		"files": [
+			"res/*.mp3"
+		]
+	}
+}
